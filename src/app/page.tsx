@@ -21,7 +21,7 @@ export default function Home() {
         window.alert("Something went wrong")
       },
       onSuccess: () => {
-        window.alert("Siccess")
+        window.alert("Success")
       }
     })
   }
